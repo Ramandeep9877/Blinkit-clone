@@ -31,4 +31,4 @@ You can see a live demo of this Blinkit clone!
 
 If you have any questions or suggestions, feel free to reach out at rdssk178@gmail.com.
 
-Thank you for checking out the Blinkit Delivery Clone!
+Thank you for checking out the Blinkit Clone!
