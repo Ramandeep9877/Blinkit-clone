@@ -19,7 +19,8 @@ This repository contains a clone of the Blinkit website, implemented using HTML,
   
 ## Demo
 You can see a live demo of this Blinkit clone!
-![Blinkit Clone](https://github.com/Ramandeep9877/Blinkit-clone/assets/130677013/fb49c59e-ff6c-4621-8106-6ca98fb1f42e)
+![Blinkit Clone](https://github.com/Ramandeep9877/Blinkit-clone/assets/130677013/1d184b71-50a3-40de-a2d2-44dcd2fa841d)
+
 
 
 ## Acknowledgments
