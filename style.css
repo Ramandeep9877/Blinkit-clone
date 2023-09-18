@@ -249,3 +249,9 @@ td{
         margin-top: 10px;
     }
 }
+
+.bott{
+    text-align: center;
+    font-size: large;
+    font-family:initial;
+}
